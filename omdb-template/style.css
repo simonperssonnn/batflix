@@ -1,0 +1,64 @@
+header{
+    padding: 20px;
+    margin-left: 41%;
+    
+}
+
+h1{
+    
+    font-family: 'netflix-font';
+    font-family: 'Comic Neue', cursive;
+}
+
+h2{
+    margin-left: 40%;
+    padding: 30px;
+    font-family: 'Comic Neue', cursive;
+}
+
+h3{
+  font-family: 'Comic Neue', cursive;
+}
+
+
+body{
+  
+    position: sticky;
+    background-image: url(Batman_1920x1081.png);
+    background-attachment: fixed;
+    background-color: rgb(235, 232, 65);
+}
+
+
+button {
+    background-color: #000620;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 10px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: 'Comic Neue', cursive;
+  }
+
+  .buttons {
+    padding-left: 35%;
+    background-color: black;
+    
+  }
+
+
+
+.register
+{
+margin: 100px 400px; 
+text-align: center;
+}
+
+
+input
+  {
+margin: 20px;
+}
